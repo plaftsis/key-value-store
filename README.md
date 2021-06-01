@@ -1,4 +1,4 @@
-# Key-Value Database
+# Key-Value Store
 
 This project is a prototype implementation of a distributed, fault-tolerant Key-Value database. It was created for the postgraduate course M111: Big Data Management, at the Department of Informatics and Telecommunications within the University of Athens.
 
